@@ -1,36 +1,38 @@
-Hey there! I'm Ali
-👨🏻‍💻 About Me
+# 👨‍💻 Full Stack Developer | MERN Stack
 
-A passionate and dedicated full-stack developer with over 5 years of experience. I specialize in building modern, secure, performant, highly scalable and intelligent applications using, microservices, monolith and serverless architectures. My passion for innovation and efficiency has led me to work primarily with early-stage startups, where I thrive in dynamic environments that foster creativity and adaptability. My focus is on delivering cutting-edge solutions that drive impactful results and push the boundaries of technology.
+Hello! I'm a **Full Stack Developer** with 3+ years of experience in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I love building scalable web applications and solving complex challenges. My passion lies in creating clean, efficient code and staying up-to-date with the latest industry trends. My journey in web development has equipped me with the skills to build efficient, scalable, and dynamic applications from the ground up.
 
 I believe in transparency and productivity, embracing modern development practices such as Agile, Scrum, Test Driven Development (TDD), Infrastructure as Code, and Continuous Integration & Continuous Delivery.
-🚀 My Mission
 
-I am driven by a mission to work on projects that profoundly impact our world. Whether it's addressing climate change, advancing AgriTech, or enhancing food security, I am always excited to contribute to initiatives that make a difference.
-🌱 Currently Exploring
+## 🚀 My Mission
 
-I am continuously expanding my knowledge and skills. Right now, I am diving deep into:
+My mission is to create impactful, high-performance applications that solve real-world problems. I am committed to delivering top-quality code while ensuring seamless user experiences. I aim to bridge the gap between development and emerging technologies like AI to build the future of intelligent, data-driven applications.
 
-    Generative AI
-    Internet of Things (IoT)
-    Cloud Architecture
-    Cyber Security
+## 💼 My Work
 
-💼 My Work
+Currently, I’m working as a **Team Lead** in the **Machine Intelligence** space, where I lead a talented team focused on MERN Stack development and data-driven projects. We focus on delivering high-quality software solutions that drive positive change..
 
-Currently working as an individual freelancer and managing a small software company, Quantlix, with a highly creative and innovative team. We focus on delivering high-quality software solutions that drive positive change.
-💡 What I Believe In
+Key areas of expertise:
+- **Full Stack Development** using MERN stack
+- **Team Leadership & Collaboration** in large and complex structures
+- **Problem-solving and optimization** through code
 
-I am passionate about exploring new technologies and developing efficient, secure, scalable software while adhering to industry best practices and standards. My goal is to create solutions that drive meaningful impact, promote sustainability, and provide tangible benefits to the community.
-📫 Get in Touch
+## 🌱 Learning & Growth
 
-I love connecting with new people and exploring opportunities for collaboration. Feel free to reach out to me at ali@quantlix.com. I'll do my best to respond as soon as I can.
+I believe that continuous learning is key to personal and professional growth. Right now, I'm focusing on improving my knowledge in **Machine Learning**, exploring **TypeScript** for better coding practices, and diving deeper into **AI** and **deep learning** to stay ahead of the curve.
 
-📄 Please take a look at my Résumé for more details about my professional journey. I am open to feedback and suggestions!
-🛠 Tech Stack
+## 🌍 Let’s Connect
 
-Python  JavaScript  React  Node.js  Django  Flask  Bootstrap 
-HTML  CSS  Git  GitHub  Markdown  Visual Studio Code 
-🤝 Connect with Me
+I am always open to new opportunities, discussions, and collaborations. If you’re interested in working together or just want to chat about tech, feel free to connect with me!
 
-LinkedIn Email GitHub 
+<a href="https://www.linkedin.com/in/ansar-saeed-sial-a02019244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+<a href="https://github.com/Ansar695" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="mailto:ansarsaeed988@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+
+Let’s build something amazing together! 🚀
